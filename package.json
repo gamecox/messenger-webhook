@@ -1,0 +1,31 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "messenger-webhook, facebook-for-developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamecox/messenger-webhook.git"
+  },
+  "keywords": [
+    "express",
+    "facebook",
+    "webhook",
+    "node",
+    "gamecox"
+  ],
+  "author": "gamecox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gamecox/messenger-webhook/issues"
+  },
+  "homepage": "https://github.com/gamecox/messenger-webhook#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
